@@ -5753,10 +5753,10 @@ gatsby-page-utils@^1.7.0:
     lodash "^4.17.21"
     micromatch "^4.0.2"
 
-gatsby-plugin-gatsby-cloud@2.8.0-alpha-gatsby-plugin-gatsby-cloud.1.72:
-  version "2.8.0-alpha-gatsby-plugin-gatsby-cloud.1.72"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-gatsby-cloud/-/gatsby-plugin-gatsby-cloud-2.8.0-alpha-gatsby-plugin-gatsby-cloud.1.72.tgz#6e84153bc9574b6853e68e140aed898dbeac05d4"
-  integrity sha512-pqRdSpIPHg/xefccsAxbBCjWnCBSoZjy38w5IyVqsM5F9ulK0eVL04aatgYVCQuIayIgJM4Jv06IeV4ppYBAWw==
+gatsby-plugin-gatsby-cloud@2.8.0-alpha-gatsby-plugin-gatsby-cloud.2.72:
+  version "2.8.0-alpha-gatsby-plugin-gatsby-cloud.2.72"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-gatsby-cloud/-/gatsby-plugin-gatsby-cloud-2.8.0-alpha-gatsby-plugin-gatsby-cloud.2.72.tgz#1bf84ffe1d870db6efca390bf18ef99283ef872e"
+  integrity sha512-xGajuSeIMqONbr9EQLTOkl8qw0nUDPccfkEr6FbgskGvSaqVoUNnmesTdwhxCim8sw8W3jev/KMLWE7c2kr0RQ==
   dependencies:
     "@babel/runtime" "^7.14.0"
     date-fns "^2.22.1"
